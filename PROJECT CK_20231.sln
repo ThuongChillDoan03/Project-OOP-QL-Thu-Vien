@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROJECT CK_20231", "PROJECT CK_20231.csproj", "{51F9EBFC-3531-4D04-8084-656D059D1197}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dong_goi_PRJ", "..\Dong_goi_PRJ\Dong_goi_PRJ.vdproj", "{00AC0310-C75E-455E-A564-0E522C42480E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F9EBFC-3531-4D04-8084-656D059D1197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F9EBFC-3531-4D04-8084-656D059D1197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F9EBFC-3531-4D04-8084-656D059D1197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F9EBFC-3531-4D04-8084-656D059D1197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AC0310-C75E-455E-A564-0E522C42480E}.Debug|Any CPU.ActiveCfg = Debug
+		{00AC0310-C75E-455E-A564-0E522C42480E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8515A6-CD1C-4575-A50C-4FA1B0CC8CEC}
+	EndGlobalSection
+EndGlobal

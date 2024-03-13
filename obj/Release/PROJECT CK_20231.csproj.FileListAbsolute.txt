@@ -1,0 +1,95 @@
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\PROJECT CK_20231.exe.config
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\PROJECT CK_20231.exe
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\PROJECT CK_20231.pdb
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Google.Protobuf.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.barcodes.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.bouncy-castle-adapter.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.bouncy-castle-connector.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.commons.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.forms.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.io.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.kernel.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.layout.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.pdfa.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.sign.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.styledxmlparser.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.svg.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itextsharp.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\MySql.Data.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Newtonsoft.Json.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Buffers.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.IO.Pipelines.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Memory.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Numerics.Vectors.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.ValueTuple.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\ZstdSharp.dll
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Google.Protobuf.pdb
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Google.Protobuf.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.barcodes.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.bouncy-castle-adapter.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.bouncy-castle-connector.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.commons.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.forms.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.io.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.kernel.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.layout.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.pdfa.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.sign.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.styledxmlparser.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itext.svg.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\itextsharp.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\MySql.Data.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\Newtonsoft.Json.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Buffers.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.IO.Pipelines.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Memory.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Numerics.Vectors.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\bin\Release\System.ValueTuple.xml
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT CK_20231.csproj.AssemblyReference.cache
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT_CK_20231.Form_Dangnhap.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT_CK_20231.Form_gduser.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT_CK_20231.Form_Thongtinnguoidung.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT_CK_20231.Form4.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT_CK_20231.Frm_qlsach.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\Admin.frm_tt_quan_tri_vien.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\Admin.frm_quan_ly_nhan_vien.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\Admin.frm_them_nhan_vien.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\Admin.ManageStaff_RepairInfo.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT_CK_20231.Form5.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\Admin.Admin_HomePage.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT_CK_20231.Properties.Resources.resources
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT CK_20231.csproj.GenerateResource.cache
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT CK_20231.csproj.CoreCompileInputs.cache
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT CK_20231.csproj.CopyComplete
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT CK_20231.exe
+C:\Users\DCTq\OneDrive - Hanoi University of Science and Technology\Documents\OOP\PROJECT CK_20231\obj\Release\PROJECT CK_20231.pdb
